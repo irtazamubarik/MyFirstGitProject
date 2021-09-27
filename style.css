@@ -1,0 +1,20 @@
+.footer {
+    height: 250px;
+}
+
+.footer-list {
+    text-align: center;
+    list-style: none;
+    margin-right: 2px;
+}
+
+.footer-list>li {
+    padding: auto;
+    background-color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.navbar {
+    background-color: black;
+    margin-bottom: 5px;
+}
